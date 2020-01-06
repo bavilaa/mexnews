@@ -7,5 +7,5 @@ https://bufus.shinyapps.io/Scraping_News/
 
 
 <p align="center">
-  <img width="100" height="100" src="owl.jpg">
+  <img width="100" height="100" src="http://www.bufus.cl/owl.jpg">
 </p>
